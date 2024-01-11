@@ -1,0 +1,16 @@
+{
+    "name": "@graphhopper/graphhopper-maps-bundle",
+    "homepage": "https://graphhopper.com/maps/",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bikemap/graphhopper-maps.git"
+    },
+    "version": "0.0.0-4b18ce5bdcde689c71de317020d36bc948d905b6",
+    "license": "Apache-2.0",
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {},
+    "files": [
+        "dist/"
+    ]
+}
